@@ -13,4 +13,5 @@ collection: mofa
 thumbnail: "/img/derivatives/iiif/images/obj11/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/obj11/full/full/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj11/manifest.json"
+bio: "/bio/#walker"
 ---
