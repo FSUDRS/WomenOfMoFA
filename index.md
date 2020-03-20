@@ -7,22 +7,26 @@ show_title: false
   #y: 25%
   #height: '500px'
 ---
-### U.S. Census Data Gender Statistics
-![US Census Data]({{site.baseurl}}/img/census.png 'Census')
+[A data survey of the permanent collections of 18 prominent art museums in the U.S. found that out of over 10,000 artists, 87% are male, and 85% are white.](https://doi.org/10.1371/journal.pone.0212852)
+
+[Just 11% of all acquisitions and 14% of exhibitions at 26 prominent U.S. museums over the past decade were of work by female artists.](https://news.artnet.com/womens-place-in-the-art-world/womens-place-art-world-museums-1654714) 
+
+[In a study of 820,000 exhibitions across the public and commercial sectors in 2018, only one third were by women artists.](http://www.theartnewspaper.com/news/gallery-representation-dwindles-for-more-established-female-artists-new-research-finds) 
+
+At Florida State University’s Museum of Fine Arts (MoFA), only 8% of the permanent collection represents works by female artists.
 
 ### Museum of Fine Arts Data Gender Statistics
+{: style="text-align: center;"}
 ![Museum of Fine Arts Data]({{site.baseurl}}/img/mofa_data.png 'Mofa')
 
-## "These female artists have been pushed under the rug..."
-
-# This is a Platform for Them
+# This platform is for all female artists who have been overlooked
 {: style="text-align: center; font-weight: bold;"}
 
 {% include collection_gallery.html facet_by='object_type' collection='mofa' %}
 
-## A Note From the Curators
+### A Note From the Curators
 
-Gender disparity can be seen in different areas of our society; including in art museums all across the globe. With the [United States Census recording over 50% of the United State population as female](https://data.census.gov/cedsci/table?q=United%20States&table=DP05&tid=ACSDP1Y2017.DP05&lastDisplayedRow=29&vintage=2017&layer=state&cid=DP05_0001E), our museum collections should reflect that. According to the [National Museum of Women in the Arts](https://www.theartnewspaper.com/news/gallery-representation-dwindles-for-more-established-female-artists-new-research-finds), in a study of 820,000 exhibitions across the public and commercial sectors in 2018, only one third were by women artists. In a study conducted by mathematicians, statisticians, and art historians at Williams College, the United States’ art museum sector is grappling with diversity. [The study] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6426178/) showed that 18 major museums in the United States are 85% white and 87% male within the permanent collections. [At the Metropolitan Museum of Art, for instance, less than 3% of the artists in the modern sections are women, but 83% of nudes are of women.](file:///Users/Steph/Downloads/Betsch%20Cole%20Museums,%20Diversity%20and%20Social%20Value%20(1).pdf) [_The Andrew W. Mellon Foundation: Art Museum Staff Demographic survey_](file:///Users/Steph/Downloads/awmf_museum_diversity_report_aamd_7-28-15%20(1).pdf) states, >“the case is clear and urgent, and constructive responses to it will be critical to the continued vitality of art museums as public resources for a democratic society.”
+Gender disparity can be seen in different areas of our society; including in art museums all across the globe. With the [United States Census recording over 50% of the United State population as female](https://data.census.gov/cedsci/table?q=United%20States&table=DP05&tid=ACSDP1Y2017.DP05&lastDisplayedRow=29&vintage=2017&layer=state&cid=DP05_0001E), our museum collections should reflect that. According to the [National Museum of Women in the Arts](https://www.theartnewspaper.com/news/gallery-representation-dwindles-for-more-established-female-artists-new-research-finds), in a study of 820,000 exhibitions across the public and commercial sectors in 2018, only one third were by women artists. In a study conducted by mathematicians, statisticians, and art historians at Williams College, the United States’ art museum sector is grappling with diversity. [The study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6426178/) showed that 18 major museums in the United States are 85% white and 87% male within the permanent collections. [At the Metropolitan Museum of Art, for instance, less than 3% of the artists in the modern sections are women, but 83% of nudes are of women.](file:///Users/Steph/Downloads/Betsch%20Cole%20Museums,%20Diversity%20and%20Social%20Value%20(1).pdf) [_The Andrew W. Mellon Foundation: Art Museum Staff Demographic survey_](file:///Users/Steph/Downloads/awmf_museum_diversity_report_aamd_7-28-15%20(1).pdf) states, >“the case is clear and urgent, and constructive responses to it will be critical to the continued vitality of art museums as public resources for a democratic society.”
 
 However, more and more recently, we have seen curators who are creating spaces that push dialogue of hard truths and activism within their communities in order to provide a platform for minority artists who have been pushed to the side and ignored. [These curators are people who are stretching in exciting, innovative, and creative ways in what curatorial work actually is and can be.](https://www.aam-us.org/2020/01/08/curators-take-flight-four-curators-cast-a-wide-eye-on-the-shifting-landscape-for-curatorial-practice/) Inspired by the curators who stand before us and activism groups such as the [Guerilla Girls](https://www.guerrillagirls.com/), who provide a platform for these hard truths and realities, we have created an exhibition that provides a platform for female artists, those of the minority, who have been stripped of their artistic voice. Our particular exhibition uses pieces of the permanent collection at Florida State University’s Museum of Fine Arts (MoFA). These pieces were selected after careful statistical research that showed only 8% of the works in the museum’s permanent collection were by female artists.
 

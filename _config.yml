@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'MOFA'
+title:            'Uncovering the Female Artists of MoFA’s Permanent Collection'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://FSUDRS.github.io'
 baseurl:          '/waxDemo'
