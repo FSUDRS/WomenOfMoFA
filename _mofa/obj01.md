@@ -1,6 +1,6 @@
 ---
 pid: obj01
-artist: S. Patricia Benson
+artist: Benson, S. Patricia
 location: American
 label: 'American Indian #1'
 _date: '1969'
