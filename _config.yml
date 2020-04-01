@@ -21,7 +21,7 @@
 title:            'Uncovering the Female Artists of MoFA’s Permanent Collection'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://FSUDRS.github.io'
-baseurl:          '/waxDemo'
+baseurl:          '/WomenOfMoFA'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
